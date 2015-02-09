@@ -1,3 +1,11 @@
+/********************************************************************************************************
+* Author : FrankYu
+* Created on : 03-May_2013
+* GitHub : www.github.com/HiYu
+* DEscription : The project achieved a ncurses-based similar to vi/vim terminal editor which named Myvi.
+* 
+**********************************************************************************************************/
+
 #include<stdlib.h>
 #include<ncurses.h>
 #include<ctype.h>
